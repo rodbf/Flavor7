@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mi_register"
+        android:title="@string/register"
+        android:visible="false"/>
+    <item android:id="@+id/mi_login"
+        android:title="@string/login"
+        android:visible="false"/>
+    <item android:id="@+id/mi_profile"
+        android:title="@string/profile"/>
+    <item android:id="@+id/mi_diet"
+        android:title="@string/my_diet"/>
+    <item android:id="@+id/mi_favorites"
+        android:title="@string/my_books"/>
+    <item android:id="@+id/mi_new_recipe"
+        android:title="@string/new_recipe"/>
+    <item android:id="@+id/mi_premium"
+        android:title="@string/premium"/>
+    <item android:id="@+id/mi_logout"
+        android:title="@string/logout"/>
+
+</menu>

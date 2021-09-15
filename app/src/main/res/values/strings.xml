@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Flavor7</string>
+    <string name="register">Cadastrar</string>
+    <string name="new_recipe">Nova Receita</string>
+    <string name="my_diet">Minha Dieta</string>
+    <string name="favorites">Favoritos</string>
+    <string name="premium">Premium</string>
+    <string name="suggestion">Envie uma sugestão</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Perfil</string>
+    <string name="login">Login</string>
+    <string name="config">Configurações</string>
+    <string name="support">Suporte</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="TOS">Termos de Uso</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="category">Categoria</string>
+    <string name="type">Tipo</string>
+    <string name="max_duration">Tempo máximo</string>
+    <string name="adv_search">Pesquisa Avançada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_results">Resultados da pesquisa</string>
+    <string name="new_user">Novo usuário</string>
+    <string name="email">e-mail</string>
+    <string name="name">Nome</string>
+    <string name="password">Senha</string>
+    <string name="confirm">Confirmar</string>
+    <string name="secret">**********</string>
+    <string name="password_confirm">Confirmar senha</string>
+    <string name="show_only">Tipo de dieta</string>
+    <string name="restrictions">Restrições Alimentares</string>
+    <string name="add">Adicionar</string>
+    <string name="ERR_NO_BOOK_SELECTED">Selecione um livro</string>
+    <string name="ERR_INVALID_NAME">Nome Inválido</string>
+    <string name="ERR_BOOK_ALREADY_EXISTS">Livro já existe</string>
+    <string name="select_book">Selecione um livro</string>
+    <string name="new_book">Novo Livro</string>
+    <string name="bookmark_write_error">Erro ao salvar</string>
+    <string name="recipe_count">%d receitas</string>
+    <string name="follower_count">%d seguidores</string>
+    <string name="new_name">Novo nome</string>
+    <string name="delete">Deletar</string>
+    <string name="my_menu">Meu Cardápio</string>
+    <string name="breakfast">Café da manhã</string>
+    <string name="lunch">Almoço</string>
+    <string name="dinner">Jantar</string>
+    <string name="next_suggestion">Próxima sugestão</string>
+    <string name="reply">Responder</string>
+    <string name="message">Mensagem</string>
+    <string name="send">Enviar</string>
+    <string name="comments">Comentários</string>
+    <string name="explore">Explorar</string>
+    <string name="my_books">Meus Livros</string>
+    <string name="popular">Popular</string>
+    <string name="history">Histórico</string>
+    <string name="new_ticket">Novo ticket</string>
+    <string name="how_can_we_help">Como podemos te ajudar?</string>
+    <string name="subject">Assunto</string>
+    <string name="close_ticket">Fechar ticket</string>
+    <string name="diet">Dieta</string>
+    <string name="meal">Refeição</string>
+
+    <string-array name="categories">
+        <item>Carne</item>
+        <item>Peixe</item>
+        <item>Frango</item>
+    </string-array>
+
+    <string-array name="category_types">
+        <item>Vaca</item>
+        <item>Cordeiro</item>
+        <item>Coelho</item>
+    </string-array>
+</resources>

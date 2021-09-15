@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mi_config"
+        android:title="@string/config"/>
+    <item android:id="@+id/mi_support"
+        android:title="@string/support"/>
+    <item android:id="@+id/mi_suggestion"
+        android:title="@string/suggestion"/>
+    <item android:id="@+id/mi_privacy_policy"
+        android:title="@string/privacy_policy"/>
+    <item android:id="@+id/mi_TOS"
+        android:title="@string/TOS"/>
+</menu>
